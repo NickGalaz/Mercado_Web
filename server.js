@@ -34,7 +34,7 @@ app.get("/", function (req, res) {
             "lechuga",
             "tomate",
         ],
-        Bienvenida:"Bienvenido al mercado WEB, seleccione sus productos"
+        Bienvenida: "Bienvenido al mercado WEB, seleccione sus productos"
     });
 });
 
