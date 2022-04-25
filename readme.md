@@ -1,7 +1,7 @@
 # Desafío: Mercado Web
 
 ### Módulo 8
-### Acceso a Base de Datos con Node
+### Framework Express
 
 ## Unidad: 2 - Desafío 2
 
